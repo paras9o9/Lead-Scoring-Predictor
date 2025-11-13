@@ -1,7 +1,7 @@
 # Lead Conversion Scoring Tool
 
 A machine learning-powered web tool that predicts whether a marketing lead is likely to convert or not.  
-This project demonstrates the **end-to-end ML pipeline** — from real-world data cleaning and feature engineering, to model training, evaluation, and deployment in a **Streamlit web app**.
+This project demonstrates the **end-to-end ML pipeline** from real-world data cleaning and feature engineering, to model training, evaluation, and deployment in a **Streamlit web app**.
 
 ---
 
